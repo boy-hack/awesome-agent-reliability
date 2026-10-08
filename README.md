@@ -353,6 +353,7 @@ Resources for securing AI **agents** specifically: the skills, plugins, MCP serv
 - [garak](https://github.com/NVIDIA/garak) — NVIDIA's LLM vulnerability scanner — nmap for language models; the widest range of attack probes.
 - [PyRIT](https://github.com/microsoft/PyRIT) — Microsoft's Python Risk Identification Tool for proactively finding risks in generative-AI systems.
 - [promptfoo](https://github.com/promptfoo/promptfoo) — Test/red-team harness with first-class CI/CD support and an agentic red-team suite.
+- [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Tencent's full-stack AI red-teaming platform combining AI-infra vulnerability scanning, MCP/skill supply-chain audits, multi-turn agent-dialogue red teaming, and LLM jailbreak evaluation in one tool.
 - [HarmBench](https://github.com/centerforaisafety/HarmBench) — Standardized evaluation framework for assessing adversarial robustness across multiple harm categories.
 - [TextAttack](https://github.com/QData/TextAttack) — NLP adversarial attack framework: generates adversarial examples via character-, word-, and sentence-level perturbations.
 - [ART (Adversarial Robustness Toolbox)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) — IBM's Python toolbox for adversarial ML; attacks, defenses, and benchmarks across modalities.
